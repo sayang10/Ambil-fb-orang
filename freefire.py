@@ -352,21 +352,21 @@ def mbf():
 
                    baner()
 
-                   kata('\033[34;1m{\033[31;1m1\033[34;1m} Crack Dari Teman')
+                   kata('\033[34;1m[\033[31;1m1\033[34;1m] Crack Dari Teman')
 
-                   kata('\033[34;1m{\033[31;1m2\033[34;1m} Crack Dari Link Post\033[1;97m ')
+                   kata('\033[34;1m[\033[31;1m2\033[34;1m] Crack Dari Link Post\033[1;97m ')
 
-                   kata('\033[34;1m{\033[31;1m3\033[34;1m} Crack Dari Pencarian Nama')
+                   kata('\033[34;1m[\033[31;1m3\033[34;1m] Crack Dari Pencarian Nama')
 
-                   kata('\033[34;1m{\033[31;1m4\033[34;1m} Crack Dari Grup ')
+                   kata('\033[34;1m[\033[31;1m4\033[34;1m] Crack Dari Grup ')
 
-                   kata('\033[34;1m{\033[31;1m5\033[34;1m} Crack Dari Teman Publik')
+                   kata('\033[34;1m[\033[31;1m5\033[34;1m] Crack Dari Teman Publik')
 
-                   kata('\033[34;1m{\033[36;1m6\033[34;1m} Lihat Hasil Crack')
+                   kata('\033[34;1m[\033[36;1m6\033[34;1m] Lihat Hasil Crack')
 
                    print()
 
-                   tanya = input('\n\033[36;1m>> \033[37;1m ')
+                   tanya = input('\n\033[36;1m @pilih >> \033[37;1m ')
 
                    if tanya =="":
 
